@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "762442418470",
+    "project_id": "sign-in-anonomously",
+    "storage_bucket": "sign-in-anonomously.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:762442418470:android:634bb3888d0d49e93819e7",
+        "android_client_info": {
+          "package_name": "com.example.sign_in_anonomously"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "762442418470-9imj81l7o5rs3jpj3ret9oimn2496qrg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcp2OAqK3fTvqsOKTSOrW6fAE2j4plcic"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "762442418470-9imj81l7o5rs3jpj3ret9oimn2496qrg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
